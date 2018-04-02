@@ -1,0 +1,129 @@
+[
+{
+"1": {
+"motivo": "Año Nuevo",
+"tipo": "inamovible",
+"id": "año-nuevo"
+}
+},
+{},
+{
+"4": {
+"motivo": "Carnaval",
+"tipo": "inamovible",
+"id": "carnaval"
+},
+"5": {
+"motivo": "Carnaval",
+"tipo": "inamovible",
+"id": "carnaval"
+},
+"24": {
+"motivo": "Día Nacional de la Memoria por la Verdad y la Justicia",
+"tipo": "inamovible",
+"id": "memoria-verdad-justicia"
+}
+},
+{
+"2": {
+"motivo": "Día del Veterano y de los Caídos en la Guerra de Malvinas",
+"tipo": "inamovible",
+"id": "veteranos-malvinas"
+},
+"18": {
+"motivo": "Jueves Santo Festividad Cristiana",
+"tipo": "nolaborable",
+"opcional": "religion",
+"religion": "cristianismo",
+"id": "jueves-santo"
+},
+"19": {
+"motivo": "Viernes Santo Festividad Cristiana",
+"tipo": "inamovible",
+"id": "viernes-santo"
+}
+},
+{
+"1": {
+"motivo": "Día del Trabajador",
+"tipo": "inamovible",
+"id": "trabajador"
+},
+"25": {
+"motivo": "Día de la Revolución de Mayo",
+"tipo": "inamovible",
+"id": "revolucion-mayo"
+}
+},
+{
+"17": {
+"motivo": "Paso a la Inmortalidad del Gral. Don Martín Güemes",
+"tipo": "nolaborable",
+"id": "martin-guemes"
+},
+"20": {
+"motivo": "Paso a la Inmortalidad del General Manuel Belgrano",
+"tipo": "inamovible",
+"id": "belgrano"
+}
+},
+{
+"8": {
+"motivo": "Feriado Puente Turístico",
+"tipo": "puente",
+"id": "puente-turistico"
+},
+"9": {
+"motivo": "Día de la Independencia",
+"tipo": "inamovible",
+"id": "independencia"
+}
+},
+{
+"17": {
+"motivo": "Paso a la Inmortalidad del General José de San Martín",
+"tipo": "trasladable",
+"original": "17-08",
+"id": "san-martin"
+},
+"19": {
+"motivo": "Feriado Puente Turístico",
+"tipo": "puente",
+"id": "puente-turistico"
+}
+},
+{},
+{
+"12": {
+"motivo": "Día del Respeto a la Diversidad Cultural",
+"tipo": "trasladable",
+"original": "12-10",
+"id": "diversidad"
+},
+"14": {
+"motivo": "Feriado Puente Turístico",
+"tipo": "puente",
+"id": "puente-turistico"
+}
+},
+{
+"18": {
+"motivo": "Día de la Soberanía Nacional",
+"tipo": "trasladable",
+"original": "20-11",
+"id": "soberania-nacional"
+}
+},
+{
+"8": {
+"motivo": "Inmaculada Concepción de María",
+"tipo": "inamovible",
+"id": "inmaculada-maria"
+},
+"25": {
+"motivo": "Navidad",
+"tipo": "inamovible",
+"id": "navidad"
+}
+}
+]

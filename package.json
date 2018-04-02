@@ -1,0 +1,24 @@
+{
+  "name": "feriados",
+  "version": "0.0.1",
+  "description": "Feriados Argentinos JS Lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test.js"
+  },
+  "keywords": [
+    "feriados",
+    "argentinos",
+    "argentina",
+    "laborables"
+  ],
+  "author": "Mariano Benedettini <mariano@codexia.io>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}
