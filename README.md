@@ -1,4 +1,4 @@
-## Argentina Business Days
+## Argentina Business Days [![Build Status](https://travis-ci.org/mbenedettini/feriados.svg?branch=master)](https://travis-ci.org/mbenedettini/feriados)
 
 Tiny JS library that tells whether a given date is a business day and which is
 the next business date.
